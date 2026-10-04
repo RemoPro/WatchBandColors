@@ -56,7 +56,20 @@ public extension UIColor {
 	/// An array of all the default colors
 	static let allDefaultColors = [defaultRed, defaultOrange, defaultLightOrange, defaultYellow, defaultLightYellow, defaultLightGreen, defaultGreen, defaultLightBlue, defaultBlue, defaultNavy, defaultPurple, defaultLightPurple, defaultLightPink, defaultPink, defaultPlum, defaultStone, defaultWarmGray, defaultCream, defaultGray]
 	
-	
+    // MARK: Fall 2026
+    
+    // MARK: Spring 2026
+    
+    // MARK: Fall 2025
+    
+    // MARK: Spring 2025
+    
+    // MARK: Fall 2024
+    
+    // MARK: Spring 2024
+    
+    // MARK: Fall 2023
+    
 	// MARK: Spring 2023
 	/// Sky, from the Spring 2023 Collection
 	static let sky = UIColor(red: 213/255, green: 234/255, blue: 243/255, alpha: 1.00)
