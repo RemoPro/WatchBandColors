@@ -586,6 +586,7 @@ public extension UIColor {
 		case defaultGray:
 			return "Default Gray"
 			
+            // Spring 2023 Colors
 		case sky:
 			return "Sky"
 		case purpleFog:
@@ -1007,6 +1008,7 @@ public extension UIColor {
 		case defaultGray:
 			return false
 			
+            // Spring 2023 Colors
 		case sky:
 			return true
 		case purpleFog:
